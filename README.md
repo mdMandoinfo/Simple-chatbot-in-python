@@ -13,23 +13,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mdMandoinfo/Smiple-chatbot-in-python">
+  <a href="https://github.com/mdMandoinfo/Simple-chatbot-in-python">
     <img src="https://avatars.githubusercontent.com/u/91418066?v=4" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Smiple chatbot in python</h3>
+<h3 align="center">Simple chatbot in python</h3>
   <p align="center">
     Start chating with bots
     by this smiple script.
     <br />
-    <a href="https://github.com/mdMandoinfo/Smiple-chatbot-in-python/blob/main/docs.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mdMandoinfo/Simple-chatbot-in-python/blob/main/docs.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mdMandoinfo/Smiple-chatbot-in-python">View Demo</a>
+    <a href="https://github.com/mdMandoinfo/Simple-chatbot-in-python">View Demo</a>
     ·
-    <a href="https://github.com/mdMandoinfo/Smiple-chatbot-in-python/issues">Report Bug</a>
+    <a href="https://github.com/mdMandoinfo/Simple-chatbot-in-python/issues">Report Bug</a>
     ·
-    <a href="https://github.com/mdMandoinfo/Smiple-chatbot-in-python/issues">Request Feature</a>
+    <a href="https://github.com/mdMandoinfo/Simple-chatbot-in-python/issues">Request Feature</a>
   </p>
 </div>
 
@@ -78,7 +78,7 @@ This code uses the provided JSON file called "intents.json" to store the convers
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Download **main.py** and **intents.json** [Download](https://github.com/mdMandoinfo/Smiple-chatbot-in-python/archive/refs/heads/main.zip)
+1. Download **main.py** and **intents.json** [Download](https://github.com/mdMandoinfo/Simple-chatbot-in-python/archive/refs/heads/main.zip)
 2. After downloading open the `main.py`
 3. Now you can simply start chating with bots
 
@@ -91,7 +91,7 @@ This code uses the provided JSON file called "intents.json" to store the convers
 
 - [ ] 1 => Basic example <br>
 
-See the [open issues](https://github.com/mdMandoinfo/Smiple-chatbot-in-python/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/mdMandoinfo/Simple-chatbot-in-python/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -127,20 +127,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: **mdMandoinfo#9819**
 
-Script Link: [https://github.com/mdMandoinfo/Smiple-chatbot-in-python](https://github.com/mdMandoinfo/Smiple-chatbot-in-python)
+Script Link: [https://github.com/mdMandoinfo/Simple-chatbot-in-python](https://github.com/mdMandoinfo/Simple-chatbot-in-python)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
-[contributors-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
-[forks-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/network/members
-[stars-shield]: https://img.shields.io/github/stars/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
-[stars-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
-[issues-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/issues
+[contributors-shield]: https://img.shields.io/github/contributors/mdMandoinfo/Simple-chatbot-in-python.svg?style=for-the-badge
+[contributors-url]: https://github.com/mdMandoinfo/Simple-chatbot-in-python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mdMandoinfo/Simple-chatbot-in-python.svg?style=for-the-badge
+[forks-url]: https://github.com/mdMandoinfo/Simple-chatbot-in-python/network/members
+[stars-shield]: https://img.shields.io/github/stars/mdMandoinfo/Simple-chatbot-in-python.svg?style=for-the-badge
+[stars-url]: https://github.com/mdMandoinfo/Simple-chatbot-in-python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Simple-chatbot-in-python.svg?style=for-the-badge
+[issues-url]: https://github.com/mdMandoinfo/Simple-chatbot-in-python/issues
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/mdMandoinfo
