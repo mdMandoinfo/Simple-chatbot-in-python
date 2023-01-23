@@ -1,0 +1,43 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "Hey", "Hi there", "How are you", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hi", "Hello", "Hello there", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["My pleasure", "You're Welcome"],
+         "context": [""]
+        },
+        {"tag": "query",
+         "patterns": ["What is big bang?"],
+         "responses": ["The Big Bang theory is the prevailing cosmological model explaining the existence of the observable universe from the earliest known periods through its subsequent large-scale evolution."],
+         "context": [""]
+        },
+		{"tag": "weather",
+		 "patterns": ["What's the weather like today?", "How hot is it outside?", "Is it going to rain?"],
+		 "responses": ["It is currently sunny and hot.", "I'm sorry, I don't have access to weather information."],
+		 "context": [""]
+        },
+		{"tag": "time",
+		 "patterns": ["What time is it?", "What's the time now?", "Can you tell me the time?"],
+		 "responses": ["The time is currently 12:00 PM.", "I'm sorry, I don't have access to the current time."],
+		 "context": [""]
+		},
+		{"tag": "jokes",
+		 "patterns": ["Tell me a joke.", "I need a laugh.", "Do you know any jokes?"],
+		 "responses": ["Why don't scientists trust atoms? Because they make up everything.", "Why was the math book sad? It had too many problems."],
+		 "context": [""]
+		},
+		{"tag": "location",
+		 "patterns": ["Where am I?", "What city am I in?", "Can you tell me my location?"],
+		 "responses": ["You are in London.", "I'm sorry, I don't have access to your location."],
+		 "context": [""]
+		}
+    ]
+ }
