@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: mdMandoinfo#9819
+[@mdMandoinfo](https://twitter.com/mdMandoinfo) - Discord: **mdMandoinfo#9819**
 
 Script Link: [https://github.com/mdMandoinfo/Smiple-chatbot-in-python](https://github.com/mdMandoinfo/Smiple-chatbot-in-python)
 
@@ -134,13 +134,13 @@ Script Link: [https://github.com/mdMandoinfo/Smiple-chatbot-in-python](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
-[contributors-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
-[forks-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/network/members
-[stars-shield]: https://img.shields.io/github/stars/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
-[stars-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network.svg?style=for-the-badge
-[issues-url]: https://github.com/mdMandoinfo/Get-real-visitor-IP-behind-CloudFlare-network/issues
+[contributors-shield]: https://img.shields.io/github/contributors/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
+[contributors-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
+[forks-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/network/members
+[stars-shield]: https://img.shields.io/github/stars/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
+[stars-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mdMandoinfo/Smiple-chatbot-in-python.svg?style=for-the-badge
+[issues-url]: https://github.com/mdMandoinfo/Smiple-chatbot-in-python/issues
 [twitter-shield]: https://img.shields.io/badge/-twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/mdMandoinfo
