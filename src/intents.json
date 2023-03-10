@@ -11,7 +11,7 @@
         },
         {"tag": "thanks",
          "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-         "responses": ["My pleasure", "You're Welcome"],
+         "responses": ["My pleasure", "You're Welcome", "Happy to help"],
          "context": [""]
         },
         {"tag": "query",
