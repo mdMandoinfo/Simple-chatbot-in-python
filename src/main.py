@@ -8,6 +8,7 @@ context = ""
 # Function to get the bot's response for a given user input
 def get_bot_response(user_input):
     global context
+    # Get dataset from intents.json file
     with open("intents.json", "r") as json_file:
         data = json.load(json_file)
 
